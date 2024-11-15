@@ -5,6 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Paiement
+<<<<<<< HEAD
+=======
+
+>>>>>>> ce3c406 (Initial commit with .gitignore)
 {
     public abstract class Paiement
     {
