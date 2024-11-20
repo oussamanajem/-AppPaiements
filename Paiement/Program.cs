@@ -1,10 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿NewMethod();
 
 static void NewMethod()
 {
     Console.WriteLine("Hello, World!");
 =======
+=======
+>>>>>>> master
 ﻿using System;
 
 namespace Paiement
@@ -22,5 +25,8 @@ namespace Paiement
             Console.ReadLine(); // Keep the console window open to view the output
         }
     }
+<<<<<<< HEAD
 >>>>>>> ce3c406 (Initial commit with .gitignore)
+=======
+>>>>>>> master
 }

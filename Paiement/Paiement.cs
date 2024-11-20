@@ -6,9 +6,13 @@ using System.Threading.Tasks;
 
 namespace Paiement
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> ce3c406 (Initial commit with .gitignore)
+=======
+
+>>>>>>> master
 {
     public abstract class Paiement
     {
